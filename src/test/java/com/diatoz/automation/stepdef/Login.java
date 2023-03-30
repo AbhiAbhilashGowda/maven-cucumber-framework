@@ -1,16 +1,8 @@
 package com.diatoz.automation.stepdef;
 
-import org.junit.Assert;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebElement;
-
 import com.diatoz.automation.base.Base;
 import com.diatoz.automation.framework.Elements;
 import com.diatoz.automation.pages.LoginPage;
-
-import cucumber.api.junit.Cucumber;
-import org.junit.runner.RunWith;
-
 import cucumber.api.java.en.*;
 
 public class Login extends Base {
