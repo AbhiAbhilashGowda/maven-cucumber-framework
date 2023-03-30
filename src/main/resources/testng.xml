@@ -4,7 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
      
-      <class name="com.diatoz.automation.Runner.java"/>
+      <class name="com.diatoz.automation.stepdef.Login.java"/>
+       <class name="com.diatoz.automation.stepdef.Jobs.java"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

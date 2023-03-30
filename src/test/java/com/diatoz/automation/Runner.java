@@ -1,4 +1,4 @@
-package com.diatoz.automation.runner;
+package com.diatoz.automation;
 
 import org.junit.runner.RunWith;
 
